@@ -16,9 +16,6 @@ This course will take you on a journey where you'll learn to build 11 High-Level
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
 Creative people and mobile app designers who want to build new experiences using the latest technology
-### Technical Requirements
-This course has the following software requirements:<br/>
-  
 
 ## Related Products
 * [The Complete Machine Learning Course with Python [Video]](https://www.packtpub.com/application-development/complete-machine-learning-course-python-video?utm_source=github&utm_medium=repository&utm_campaign=9781789953725)
