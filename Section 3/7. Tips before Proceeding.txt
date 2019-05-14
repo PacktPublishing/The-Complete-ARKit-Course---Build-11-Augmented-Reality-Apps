@@ -1,0 +1,16 @@
+Tips Before Proceeding
+As you move forward with the course,
+
+1. Note that ARWorldTrackingSessionConfiguration  is now changed to ARWorldTrackingConfiguration . 
+
+2. If you're having trouble running apps with ARKit. Try:
+
+Cleaning the project (command+shift+k)
+Turning computer on and off. 
+If that doesn't work, the Xcode installation may be corrupt. In which case,
+
+Uninstall and reinstall Xcode (not the beta version, install the release version)
+3. If a white screen shows up when you run ARKit code
+
+Your device is not compatible with ARKit. See iPhone Compatibility in Introduction.
+If your device is compatible (according to the chart) and you still get a white screen, try starting a new Xcode project. 

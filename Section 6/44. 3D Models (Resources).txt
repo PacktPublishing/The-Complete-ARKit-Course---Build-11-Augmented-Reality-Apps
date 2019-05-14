@@ -1,0 +1,8 @@
+3D Models (Resources)
+Due to an Xcode update, dragging the spongebob jellyfish from the resources folder will result in file corruption. For that reason I removed the jellyfish from the resources folder. 
+
+You'll have to download it, and drag it your Xcode project as I did in the video. 
+
+The Xcode file is in the zip file 0501.zip.
+
+Make sure to clean the project before running it. 

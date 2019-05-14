@@ -1,0 +1,12 @@
+Positioning Nodes - Overview
+In the next video, you will learn how to position nodes in 3 dimensions.
+
+The lesson assumes zero knowledge in 3D Coordinates to account for all students. Whether you're a beginner, or expert.
+
+If you're a beginner, and have never worked with 3D Coordinates:
+
+. I recommend you follow along with the video. 
+Otherwise, if you're quite familiar with 3D Coordinates.
+
+Feel free to skim/fast-forward through the last 6 minutes of the video. 
+It's important we master the basics before building the more complex apps. 

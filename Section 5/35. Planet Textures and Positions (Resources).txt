@@ -1,0 +1,6 @@
+Planet Textures and Positions (Resources)
+The Textures used in Textures and Positions are in the zip file Resources0402
+
+The Xcode file for Textures and Positions is in the Resources Folder labeled as 0402SourceCode
+
+Make sure to clean the project before running it. 

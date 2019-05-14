@@ -1,0 +1,10 @@
+Reversing (Resources)
+The filtering function :
+
+    func filtered(previousAcceleration: Double, UpdatedAcceleration: Double) -> Double {
+    let kfilteringFactor = 0.5
+    return UpdatedAcceleration * kfilteringFactor + previousAcceleration * (1-kfilteringFactor)
+    }
+The Xcode file for Reversing is in the Resources Folder
+
+Make sure to clean the project before running it. 

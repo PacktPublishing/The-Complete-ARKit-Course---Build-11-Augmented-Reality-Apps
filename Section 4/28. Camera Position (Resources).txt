@@ -1,0 +1,4 @@
+Camera Position (Resources)
+The Xcode file for Camera Position is in the Resources Folder
+
+Make sure to clean the project before running it. 

@@ -1,0 +1,6 @@
+Cube Map (Resources)
+The Cube Map Images are in the folder Portal.scnassets.
+
+The Xcode file for Cube Map is in this Resources Folder as 0902
+
+Make sure to clean the project before running it. 

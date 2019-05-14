@@ -1,0 +1,4 @@
+Building the Portal (Resources)
+The Xcode file for Building the Portal is in this Resources Folder
+
+Make sure to clean the project before running it. 

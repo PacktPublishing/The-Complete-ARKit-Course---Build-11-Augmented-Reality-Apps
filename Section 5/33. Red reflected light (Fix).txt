@@ -1,0 +1,2 @@
+Red reflected light? (Fix)
+If you're getting a red reflected light on your planet Earth. Try making the specular texture a jpg file. (Use photoshop to do so, do not just change the file extension)

@@ -1,0 +1,24 @@
+Horizontal Hit-Testing (Resources)
+1. The 3D Models for Horizontal Hit-Testing are in the zip file Assets
+
+Uncompress the zip file to get the folder.
+
+Drag the folder to your Xcode project.
+
+Make sure the folder has the extension .scnassets for it to work (refer to the video)
+
+
+
+2. The Xcode file for Horizontal Hit-Testing is in a zip file as well. 
+
+Make sure to clean the project before running it. 
+
+
+
+
+
+
+
+Resources for this lecture
+Ikea 7.zip
+Assets.zip

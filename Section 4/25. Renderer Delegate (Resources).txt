@@ -1,0 +1,4 @@
+Renderer Delegate (Resources)
+The Xcode file for renderer delegate is in the resources folder.
+
+Make sure to clean the project before running it. 

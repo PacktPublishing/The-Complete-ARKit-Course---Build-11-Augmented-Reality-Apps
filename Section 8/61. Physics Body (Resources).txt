@@ -1,0 +1,19 @@
+Physics Body (Resources)
+The Started Xcode Project Floor is Lava is in your resources folder as 0602 Source Code
+
+The Concrete image is in your Resources Folder as assets.zip
+
+The xCode file for Physics Body is in your resources folder as 0701
+
+The code you need from the drawing app (if you choose to simply copy and paste the point of view code) :
+
+        let transform = pointOfView.transform
+        let orientation = SCNVector3(-transform.m31,-transform.m32,-transform.m33)
+        let location = SCNVector3(transform.m41,transform.m42,transform.m43)
+        let currentPositionOfCamera = orientation + location
+func +(left: SCNVector3, right: SCNVector3) -> SCNVector3 {
+    
+    return SCNVector3Make(left.x + right.x, left.y + right.y, left.z + right.z)
+    
+}
+Make sure to clean the project before running it. 

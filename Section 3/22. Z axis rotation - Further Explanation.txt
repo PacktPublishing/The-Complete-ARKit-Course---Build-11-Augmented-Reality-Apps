@@ -1,0 +1,4 @@
+Z axis rotation - Further Explanation
+Some of you have been confused about the way I explained Z rotation.
+
+The reason I said that a child node rotates around "itself" when its parent experiences z rotation, is because the child node remains fixed in the same position, it does not move translationally (does not change positions), but simply rotates along its z axis relative to its parent, which is why it looks like it's rotating around "itself". 

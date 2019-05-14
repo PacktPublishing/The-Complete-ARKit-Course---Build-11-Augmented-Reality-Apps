@@ -1,0 +1,8 @@
+3D Model Correction
+Slight Correction.
+
+In the next video (3D Models) , it is claimed that 3D Models come in .dae format. This statement is missing some info, and is therefore wrong. What should've been said was that 3D Models compatible with the Scene Editor in Xcode are generally in .dae format. 
+
+other formats are .abc , or .scn (.dae files are normally converted to .scn)
+
+Rayan. 

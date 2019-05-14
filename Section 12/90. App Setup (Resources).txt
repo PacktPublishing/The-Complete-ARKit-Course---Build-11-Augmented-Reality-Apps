@@ -1,0 +1,8 @@
+App Setup (Resources)
+The Scenefile used for App setup is labelled as egg.zip
+
+The plus icon used for App setup is labelled as Add.imageset
+
+The Xcode file for App setup is in the Resources Folder
+
+Make sure to clean the project before running it. 

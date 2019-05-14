@@ -1,0 +1,4 @@
+CABasicAnimation (Resources)
+The Xcode file for CABasicAnimation is in the resources folder. 
+
+Make sure to clean the project before running it. 

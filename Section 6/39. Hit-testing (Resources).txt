@@ -1,0 +1,6 @@
+Hit-testing (Resources)
+The Xcode file for Hit-testing is in the resources folder.
+
+The button images are in the Resources zip file.
+
+Make sure to clean the project before running it. 

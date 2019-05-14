@@ -1,0 +1,8 @@
+Overview
+Hi All,
+
+In the next tutorial, we take a closer look at matrices, and how we can use them to position nodes relative to the phone's position. 
+
+To really grasp how these matrices operate, deep linear algebraic understanding is required. Please note that this is not a linear algebra course.  I have tried my best to simplify the explanations to account for all audiences. 
+
+Understanding the core of these matrices is not essential to ARKit app development. If you truly want a deeper understanding, I would invest in a computer graphics course!

@@ -1,0 +1,10 @@
+Position - Further Explanation
+Hi all,
+
+It seems that in the last tutorial, naming the variable "CurrentPositionofCamera" caused a bit of confusion. In retrospect, the naming can be a little misleading. Here's why:
+
+The position of the camera itself IS the location, whereas the orientation vector points in the direction of the camera. It is essentially, the normal of the camera. By adding the two SCNVector types, by definition, indeed you are adding a node in the front of the camera, not in the position.
+
+Hope that clears up any confusion.
+
+Rayan.

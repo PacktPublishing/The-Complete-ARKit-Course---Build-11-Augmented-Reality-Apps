@@ -1,0 +1,15 @@
+Scaling and Rotating Objects (Resources)
+Pivot Point function: 
+
+func centerPivot(for node: SCNNode) {
+        let min = node.boundingBox.min
+        let max = node.boundingBox.max
+        node.pivot = SCNMatrix4MakeTranslation(
+            min.x + (max.x - min.x)/2,
+            min.y + (max.y - min.y)/2,
+            min.z + (max.z - min.z)/2
+        )
+    }
+The Xcode file for Scaling and Rotating Objects in the Resources Folder
+
+Make sure to clean the project before running it. 

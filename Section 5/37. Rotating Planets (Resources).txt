@@ -1,0 +1,7 @@
+Rotating Planets (Resources)
+
+The Textures used for Rotating Planets are in the Resources0403 zip file
+
+The Xcode file for Rotating Planets is in the 0403.zip file
+
+Make sure to clean the project before running it. 

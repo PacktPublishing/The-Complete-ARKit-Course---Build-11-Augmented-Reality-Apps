@@ -1,0 +1,12 @@
+Planet Earth (Resources)
+The extension used to convert to radians. 
+
+extension Int {
+    
+    var degreesToRadians: Double { return Double(self) * .pi/180}
+}
+The textures used for Planet Earth are in a zip file called Resources0401
+
+The Xcode file for Planet Earth is in a zip file called 0401 Source Code
+
+Make sure to clean the project before running it. . 

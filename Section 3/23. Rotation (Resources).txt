@@ -1,0 +1,10 @@
+Rotation (Resources)
+The extension used to convert degrees to radians. 
+
+extension Int {
+    
+    var degreesToRadians: Double { return Double(self) * .pi/180}
+}
+The Xcode file is in the resources folder
+
+Make sure to clean the project before running it. 

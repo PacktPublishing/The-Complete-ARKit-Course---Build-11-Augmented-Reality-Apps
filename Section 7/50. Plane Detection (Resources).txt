@@ -1,0 +1,4 @@
+Plane Detection (Resources)
+The Xcode file for Plane Detection is in your resources folder
+
+Make sure to clean the project before running it. 

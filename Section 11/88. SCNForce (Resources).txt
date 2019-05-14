@@ -1,0 +1,6 @@
+SCNForce (Resources)
+The basketball texture is in the zip file basketballTexture.zip
+
+The Xcode file for SCNForce is in the Resources Folder labelled as 102
+
+Make sure to clean the project before running it. 

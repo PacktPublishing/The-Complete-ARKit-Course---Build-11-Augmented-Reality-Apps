@@ -1,0 +1,14 @@
+(Update) iPhone Compatibility
+ARKit apps do not run on simulators! You must run your code on a physical device.
+
+The only devices that support ARKit are:
+
+
+iPhone 6s and 6s Plus (Some issues may arise)
+iPhone 7 and 7 Plus
+iPhone SE
+iPad Pro (9.7, 10.5 or 12.9) – both first-gen and 2nd-gen
+iPad (2017)
+iPhone 8 and 8 Plus
+iPhone X  (Some inconsistencies may arise)
+If you don't have one of these devices and don't plan to get one, you can request a refund directly through Udemy up to 30 days after buying this course.

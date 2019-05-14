@@ -1,0 +1,4 @@
+Ikea User Interface (Resources)
+The Xcode file for Ikea User Interface is in the Resources Folder. 
+
+Make sure to clean the project before running it. 

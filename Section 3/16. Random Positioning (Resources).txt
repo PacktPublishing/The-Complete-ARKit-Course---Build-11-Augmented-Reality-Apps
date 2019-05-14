@@ -1,0 +1,8 @@
+Random Positioning (Resources)
+Function used for Random Positioning.
+
+func randomNumbers(firstNum: CGFloat, secondNum: CGFloat) -> CGFloat {
+ return CGFloat(arc4random()) / CGFloat(UINT32_MAX) * abs(firstNum - secondNum) + min(firstNum, secondNum)
+}
+
+Make sure to clean the project before running it. 
