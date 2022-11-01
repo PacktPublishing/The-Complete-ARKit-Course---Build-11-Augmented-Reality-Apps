@@ -24,7 +24,3 @@ Creative people and mobile app designers who want to build new experiences using
 
 * [The Complete jQuery Course - Beginner to Professional [Video]](https://www.packtpub.com/web-development/complete-jquery-course-beginner-professional-video?utm_source=github&utm_medium=repository&utm_campaign=9781789612837)
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781789958775">https://packt.link/free-ebook/9781789958775 </a> </p>
